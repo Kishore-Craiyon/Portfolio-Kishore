@@ -18,7 +18,7 @@ import Github from "../public/assets/skills/github1.png";
 import Git from "../public/assets/skills/git.png";
 import Docker from "../public/assets/skills/docker.png";
 import Express from "../public/assets/skills/Express.png";
-import Postman from "../public/assets/skills/postman.png";
+import Postman from "../public/assets/skills/Postman.png";
 import MongoDB from "../public/assets/skills/MongoDB.png";
 import Firebase from "../public/assets/skills/firebase.png";
 import PostgresSQL from "../public/assets/skills/PostgresSQL.png";
