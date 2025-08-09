@@ -13,8 +13,8 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            Hi there!, I’m Kishore, a curious software developer who’s trying to
-            get a bit better every day.
+            Hi there!, I&#39;m Kishore, a curious software developer who&#39;s
+            trying to get a bit better every day.
           </p>
           <p className="py-2 text-gray-600">
             My journey into tech started with a fascination for computers, which
@@ -30,12 +30,13 @@ const About = () => {
             experiences.
           </p>
           <p className="py-2 text-gray-600">
-            I’m always looking for new opportunities to expand my understanding
-            of web design and development, so you’ll generally find me sipping a
-            delicious cup of coffee with my nose in a good “technical” book or
-            plugged into my laptop drooling over all of the beauty the web has
-            to offer. I hope to join a team of talented individuals I can learn
-            from and build engaging digital experiences with.
+            I&#39;m always looking for new opportunities to expand my
+            understanding of web design and development, so you&#39;ll generally
+            find me sipping a delicious cup of coffee with my nose in a good
+            “technical” book or plugged into my laptop drooling over all of the
+            beauty the web has to offer. I hope to join a team of talented
+            individuals I can learn from and build engaging digital experiences
+            with.
           </p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">
