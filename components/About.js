@@ -23,9 +23,9 @@ const About = () => {
             bringing them to life with backend logic using Node.js and Express.
           </p>
           <p className="py-2 text-gray-600">
-            Over time, I've grown to enjoy both front-end and back-end
-            development — whether it's designing a smooth UI or working with
-            APIs and databases. I'm dedicated to improving my skills every day
+            Over time, I&#39;ve grown to enjoy both front-end and back-end
+            development — whether it&#39;s designing a smooth UI or working with
+            APIs and databases. I&#39;m dedicated to improving my skills every day
             and love the process of turning ideas into real, usable digital
             experiences.
           </p>
