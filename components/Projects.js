@@ -26,18 +26,6 @@ const Projects = () => {
 						projectUrl="/twitch"
 						tech="Next JS"
 					/>
-					<ProjectItem
-						title="Moviepedia"
-						backgroundImg={movieImg}
-						projectUrl="/moviepedia"
-						tech="React JS"
-					/>
-					<ProjectItem
-						title="Best Eats"
-						backgroundImg={foodImg}
-						projectUrl="/food"
-						tech="React JS"
-					/>
 				</div>
 			</div>
 		</div>
