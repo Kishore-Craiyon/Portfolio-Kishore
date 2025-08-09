@@ -13,33 +13,30 @@ const About = () => {
           </p>
           <h2 className="py-4">Who I Am</h2>
           <p className="py-2 text-gray-600">
-            Hi there!, I’m Kishore, a curious software developer who’s trying to
-            get a bit better every day.
+            Hi there!, I&#39;m Kishore, a curious software developer who&#39;s
+            trying to get a bit better every day.
           </p>
           <p className="py-2 text-gray-600">
-            I've always had a natural curiosity for technology — what started as
-            poking around with computers quickly turned into a deeper
-            fascination with programming. Once I discovered JavaScript, I was
-            hooked. The ability to bring websites to life with interactivity and
-            functionality lit a creative spark I haven’t looked back from.
-             I’m very dedicated to learn new things and to truly believe that you
-            should never stop learning. I enjoy creating different things,
-            whether that be websites, application or anything in between.
+            My journey into tech started with a fascination for computers, which
+            quickly turned into a love for coding, especially with JavaScript. I
+            enjoy building clean, responsive user interfaces using React and
+            bringing them to life with backend logic using Node.js and Express.
           </p>
           <p className="py-2 text-gray-600">
-            Over time, that passion evolved into full-stack development. I enjoy
-            working across both front-end and back-end — from building clean,
-            responsive user interfaces to wiring up APIs and databases. Whether
-            it's crafting a slick UI with React or diving into server-side logic
-            with Node.js and Express, I’m always up for the challenge.
+            Over time, I've grown to enjoy both front-end and back-end
+            development — whether it's designing a smooth UI or working with
+            APIs and databases. I'm dedicated to improving my skills every day
+            and love the process of turning ideas into real, usable digital
+            experiences.
           </p>
           <p className="py-2 text-gray-600">
-            I’m always looking for new opportunities to expand my understanding
-            of web design and development, so you’ll generally find me sipping a
-            delicious cup of coffee with my nose in a good “technical” book or
-            plugged into my laptop drooling over all of the beauty the web has
-            to offer. I hope to join a team of talented individuals I can learn
-            from and build engaging digital experiences with.
+            I&#39;m always looking for new opportunities to expand my
+            understanding of web design and development, so you&#39;ll generally
+            find me sipping a delicious cup of coffee with my nose in a good
+            “technical” book or plugged into my laptop drooling over all of the
+            beauty the web has to offer. I hope to join a team of talented
+            individuals I can learn from and build engaging digital experiences
+            with.
           </p>
           <Link href="/#projects">
             <p className="py-2 text-gray-600 underline cursor-pointer">

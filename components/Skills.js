@@ -17,21 +17,22 @@ import NodeImg from "../public/assets/skills/node.png";
 import Github from "../public/assets/skills/github1.png";
 import Git from "../public/assets/skills/git.png";
 import Docker from "../public/assets/skills/docker.png";
+import Express from "../public/assets/skills/Express.png";
 import Postman from "../public/assets/skills/postman.png";
+import MongoDB from "../public/assets/skills/MongoDB.png";
+import Firebase from "../public/assets/skills/firebase.png";
+import PostgresSQL from "../public/assets/skills/PostgresSQL.png";
 // Add Docker, Postman, etc.
 
 const SkillCard = ({ src, title }) => (
-	<div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
-		<div className="grid grid-cols-2 gap-4 justify-center items-center">
-			<div className="m-auto">
-				<Image src={src} width="64px" height="64px" alt={title} />
-			</div>
-			<div className="flex flex-col justify-center items-center">
-				<h3>{title}</h3>
-			</div>
+	<div className="p-2 sm:p-4 lg:p-6 shadow-xl rounded-xl hover:scale-105 transition-transform duration-300">
+		<div className="flex flex-col items-center justify-center">
+			<Image src={src} width={40} height={40} alt={title} className="sm:w-[64px] sm:h-[64px]" />
+			<h3 className="mt-2 text-sm sm:text-base font-medium text-center">{title}</h3>
 		</div>
 	</div>
 );
+
 
 const Skills = () => {
 	return (
@@ -55,6 +56,9 @@ const Skills = () => {
 				<h3 className="text-lg text-[#1E90FF] mt-8 mb-2">Back-End</h3>
 				<div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
 					<SkillCard src={NodeImg} title="Node.js" />
+					<SkillCard src={MongoDB} title="MongoDB" />
+					<SkillCard src={PostgresSQL} title="PostgresSQL" />
+					<SkillCard src={Firebase} title="Firebase" />
 					{/* Add more: Express, MongoDB, PostgreSQL, etc. */}
 				</div>
 
@@ -64,6 +68,7 @@ const Skills = () => {
 					<SkillCard src={Github} title="GitHub" />
 					<SkillCard src={Git} title="Git" />
 					<SkillCard src={Docker} title="Docker" />
+					<SkillCard src={Express} title="Express" />
 					<SkillCard src={Postman} title="Postman" />
 					{/* Add more: Docker, Postman, etc. */}
 				</div>
