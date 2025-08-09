@@ -17,21 +17,17 @@ const About = () => {
             get a bit better every day.
           </p>
           <p className="py-2 text-gray-600">
-            I've always had a natural curiosity for technology — what started as
-            poking around with computers quickly turned into a deeper
-            fascination with programming. Once I discovered JavaScript, I was
-            hooked. The ability to bring websites to life with interactivity and
-            functionality lit a creative spark I haven’t looked back from.
-             I’m very dedicated to learn new things and to truly believe that you
-            should never stop learning. I enjoy creating different things,
-            whether that be websites, application or anything in between.
+            My journey into tech started with a fascination for computers, which
+            quickly turned into a love for coding, especially with JavaScript. I
+            enjoy building clean, responsive user interfaces using React and
+            bringing them to life with backend logic using Node.js and Express.
           </p>
           <p className="py-2 text-gray-600">
-            Over time, that passion evolved into full-stack development. I enjoy
-            working across both front-end and back-end — from building clean,
-            responsive user interfaces to wiring up APIs and databases. Whether
-            it's crafting a slick UI with React or diving into server-side logic
-            with Node.js and Express, I’m always up for the challenge.
+            Over time, I've grown to enjoy both front-end and back-end
+            development — whether it's designing a smooth UI or working with
+            APIs and databases. I'm dedicated to improving my skills every day
+            and love the process of turning ideas into real, usable digital
+            experiences.
           </p>
           <p className="py-2 text-gray-600">
             I’m always looking for new opportunities to expand my understanding
