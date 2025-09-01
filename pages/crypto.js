@@ -40,14 +40,14 @@ const Crypto = () => {
 					<a
 						target="_blank"
 						rel="noreferrer"
-						href="https://github.com/simbaig/crypto-react-firebase"
+						href="https://github.com/kishore-craiyon"
 					>
 						<button className="px-8 py-2 mt-4 mr-8">Code</button>
 					</a>
 					<a
 						target="_blank"
 						rel="noreferrer"
-						href="https://cryptobase-5c326.web.app/"
+						href=""
 					>
 						<button className="px-8 py-2 mt-4">Demo</button>
 					</a>
