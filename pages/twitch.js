@@ -37,14 +37,14 @@ const Twitch = () => {
 					<a
 						target="_blank"
 						rel="noreferrer"
-						href="https://github.com/simbaig/twitch-nextjs"
+						href="https://github.com/kishore-craiyon"
 					>
 						<button className="px-8 py-2 mt-4 mr-8">Code</button>
 					</a>
 					<a
 						target="_blank"
 						rel="noreferrer"
-						href="https://twitch-clone-simbaig.vercel.app/"
+						href=""
 					>
 						<button className="px-8 py-2 mt-4">Demo</button>
 					</a>
