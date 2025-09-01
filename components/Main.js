@@ -46,7 +46,7 @@ const Main = () => {
 							</div>
 						</a>
 						<a
-							href="https://www.linkedin.com/in/kishore-g-0072b027a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
+							href="https://www.linkedin.com/in/wasim-ay/"
 							target="_blank"
 							rel="noreferrer"
 						>
